@@ -31,9 +31,10 @@ Software Development & Open Source Projects
 
 
 
-Feel free to reach out for anything—I'm always up to chat!
 
 ## Contact
+Feel free to reach out for anything—I'm always up to chat!
+
 Email: thomasevan1248@gmail.com
 LinkedIn: https://www.linkedin.com/in/evan-thomas-68b93a247/
 
