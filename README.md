@@ -6,28 +6,17 @@ I'm really passionate about learning new technologies and building cool things. 
 
 ## Skills
 ### Programming Languages:
-Java
-Python
-TypeScript (Next.js)
-C++/C# (Beginner)
+Java, Python, TypeScript (Next.js), C++/C# (Beginner)
 
 
 ### Technologies & Frameworks:
-Next.js
-Node.js
-React.js
-TensorFlow (Machine Learning)
-OpenCV (Motion Capture)
+Next.js, Node.js, React.js, TensorFlow (Machine Learning), OpenCV (Motion Capture)
 
 ### Tools & Environments:
-Git/GitHub
-Docker (Beginner)
-VS Code, IntelliJ IDEA
+Git/GitHub, VS Code, IntelliJ IDEA, Docker (Beginner)
 
 ### Interests
-Machine Learning (ML)
-Motion Tracking
-Software Development & Open Source Projects
+Machine Learning (ML), Motion Tracking, Software Development & Open Source Projects
 
 
 
