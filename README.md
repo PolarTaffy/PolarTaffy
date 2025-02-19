@@ -1,8 +1,8 @@
-# Hey, the name's Evan! 👋
+# Hey, I'm Evan! 👋
 
 
 ## About Me
-I'm really passionate about learning new technologies and building cool things. More specifically, I love creating things with the intention of focusing on how the user interacts with them. User-centered design, HCI and motion tracking/capture are really cool to me. I'm always also open to experimenting with various other fields of tech.
+I'm passionate about learning new technologies and building cool things. More specifically, I love creating things with the intention of focusing on how the user interacts with them. User-centered design, HCI and motion tracking/capture are really cool to me. I'm always also open to experimenting with various other fields of tech.
 
 ## Skills
 ### Programming Languages:
@@ -22,8 +22,6 @@ Machine Learning (ML), Motion Tracking, Software Development & Open Source Proje
 
 
 ## Contact
-Feel free to reach out for anything—I'm always up to chat!
-
 Email: thomasevan1248@gmail.com
 LinkedIn: https://www.linkedin.com/in/evan-thomas-68b93a247/
 
