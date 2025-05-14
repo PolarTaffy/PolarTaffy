@@ -1,17 +1,14 @@
-# Hey, I'm Evan! 👋
+# Hi, I'm Evan! 👋🏾
 
 ## About Me
-I'm passionate about learning new technologies and building cool things. More specifically, I love creating things with the intention of focusing on how the user interacts with them. User-centered design, HCI and motion tracking/capture are really cool to me. I'm always also open to experimenting with various other fields of tech.
+I'm passionate about learning new technologies and building cool things. More specifically, I love creating things with the intention of focusing on how the user interacts with them. User-centered design, HCI and motion tracking/capture are some of my areas of interest. I enjoy working and experimenting with new sectors in tech, too!
 
 ## Skills
 ### Programming Languages:
-Java, Python, TypeScript (Next.js), C++/C# (Beginner)
+Java, Python, JavaScript, TypeScript, C, C++
 
 ### Technologies & Frameworks:
 Next.js, Node.js, React.js, TensorFlow (Machine Learning), OpenCV (Motion Capture)
-
-### Interests
-Machine Learning (ML), Motion Tracking, Software Development & Open Source Projects
 
 ## Contact
 Email: thomasevan1248@gmail.com
